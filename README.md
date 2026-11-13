@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m Reuof 👋
 
-<!--
-**reuofcode11/reuofcode11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in building practical projects, exploring new technologies, and improving my technical skills.
 
-Here are some ideas to get you started:
+🚀 Featured Project
+	•	RAG System from Scratch — A Python-based RAG system featuring BM25 search, source citations, Arabic text support, and retrieval evaluation. Includes 27 tests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I’m Learning
+	•	Python and clean code
+	•	Software testing
+	•	AI engineering
+	•	Information retrieval
+
+🛠️ Skills
+
+Python · Java · Git · GitHub · Unit Testing · HTML · CSS · Object-Oriented Programming
+
+🎯 Interests
+
+Building skills, creating projects, and exploring new technologies.
